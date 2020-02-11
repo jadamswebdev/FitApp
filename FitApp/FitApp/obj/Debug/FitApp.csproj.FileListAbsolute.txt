@@ -1,0 +1,12 @@
+C:\Users\ihopj\source\repos\FitApp\FitApp\bin\Debug\FitApp.exe.config
+C:\Users\ihopj\source\repos\FitApp\FitApp\bin\Debug\FitApp.exe
+C:\Users\ihopj\source\repos\FitApp\FitApp\bin\Debug\FitApp.pdb
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.csprojAssemblyReference.cache
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.Properties.Resources.resources
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.userInfo.resources
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.csproj.GenerateResource.cache
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.exe
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.pdb
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.entry.resources
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.Help.resources
+C:\Users\ihopj\source\repos\FitApp\FitApp\obj\Debug\FitApp.Home.resources
